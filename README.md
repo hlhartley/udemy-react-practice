@@ -1,5 +1,5 @@
 # Udemy - Learning React Course
-- I completed a 2.5 hour Udemy - Learning React Course in order to review as well as team my team about React
+- I completed a 2.5 hour Udemy - Learning React Course in order to review my skills as well as teach my team about React
 
 ## Course Contents
 - Set up and dev tools
