@@ -8,4 +8,4 @@
 [Udemy - Learning React Course](https://www.udemy.com/course/learning-react/)
 
 ## Udemy Certificate
-[heather-hartley-react-certification.pdf](https://github.com/hlhartley/udemy-react-practice/files/6137272/heather-hartley-react-certification.pdf)
+
